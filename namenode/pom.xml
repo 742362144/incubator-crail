@@ -55,6 +55,11 @@
       <artifactId>crail-rpc</artifactId>
       <version>${project.parent.version}</version>
     </dependency>
+    <dependency>
+      <groupId>org.apache.crail</groupId>
+      <artifactId>crail-rpc-narpc</artifactId>
+      <version>${project.parent.version}</version>
+    </dependency>
   </dependencies>
 
   <build>
